@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [PAGENOTE](https://github.com/rowthan/pagenote)
+- 🌱 I’m currently learning TypeScript
+- 👯 I’m looking to collaborate on [PAGENOTE-extension](https://pagenote.cn)
+- 📫 How to reach me: wechat： pagenote
