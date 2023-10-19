@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [PAGENOTE](https://github.com/rowthan/pagenote)
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on [PAGENOTE-extension](https://pagenote.cn)
+- 👯 I’m looking to collaborate on [PAGENOTE-extension](https://pagenote.cn)  [PAGENOTE-web](https://github.com/rowthan/developer.pagenote.cn)
 - 📫 How to reach me: wechat： pagenote
